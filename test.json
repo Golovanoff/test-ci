@@ -1,8 +1,8 @@
 {
     "Донор": {
         "Адрес": "http://github.com/Golovanoff/test-ci.git",
-        "Путь": "/home/sergio/work/git/test-ci/test-ci"
+        "Путь": "/home/sergio/work/test-ci"
     },
     "Коммиты": [],
-    "Файлы": []
+    "Файлы": ["src/Классы", "test-ci.os"]
 }
